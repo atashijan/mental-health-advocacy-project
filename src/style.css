@@ -1,4 +1,9 @@
+body {
+  font-family: "poppins", sans-serif;
+}
+
 h1 {
   font-size: 96px;
-  line-height: 144px;
+  line-height: 1;
+  font-weight: 700;
 }

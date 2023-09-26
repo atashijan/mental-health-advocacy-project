@@ -118,8 +118,8 @@ main li {
   opacity: 0.8;
 }
 main img {
-  max-width: 700px;
-  margin: 175px auto;
+  width: 100%;
+  margin-top: 25%;
 }
 
 footer {
